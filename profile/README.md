@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/logo.svg" alt="OpenLedger" width="170">
+  <img src="../assets/logo.svg" alt="OpenLedger" width="170">
 </p>
 <p align="center">
   <strong>Open infrastructure for the AI era.</strong>
