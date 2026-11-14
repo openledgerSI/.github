@@ -1,9 +1,6 @@
  <p align="center">
   <img src="assets/logo.svg" alt="OpenLedger" width="170">
 </p>
-
-<h1 align="center">OpenLedger</h1>
-
 <p align="center">
   <strong>Open infrastructure for the AI era.</strong>
 </p>
